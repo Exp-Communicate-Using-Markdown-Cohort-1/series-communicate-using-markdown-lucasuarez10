@@ -7,3 +7,6 @@ now I do a change in my file with headers
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [ ] Create a Readme file
+- [ ] Introduction to GitHub
+- [ ] Introduction to markdowns
